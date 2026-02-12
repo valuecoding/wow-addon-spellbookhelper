@@ -1,0 +1,8 @@
+## Interface: 50500
+## Title: SpellBook Helper
+## Notes: Shows which spells are already in action bars when opening spellbook
+## Author: enjoymygripz
+## Version: 1.0
+## SavedVariables: SpellBookHelperDB
+
+SpellBookHelper.lua
