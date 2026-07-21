@@ -1,10 +1,11 @@
-# SpellBook Helper
+﻿# SpellBookHelper
 
 Shows which spells are already in action bars when opening spellbook
 
 ## Information
 
 - **Version:** 1.0
+- **Author:** enjoymygripz
 - **CurseForge:** https://www.curseforge.com/wow/addons/spellbookhelper
 
 ## Installation
@@ -15,4 +16,4 @@ Shows which spells are already in action bars when opening spellbook
 
 ## License
 
-See LICENSE file for details.
+See license/LICENSE file if present, otherwise All Rights Reserved by the author.
